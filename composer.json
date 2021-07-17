@@ -1,0 +1,11 @@
+{
+    "name": "thexcore/thex-elementor",
+    "description": "This is autoloader with composer",
+    "license": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Thexcore\\ThexElementor\\": "thex-elementor/"
+        }
+    },
+    "require": {}
+}
